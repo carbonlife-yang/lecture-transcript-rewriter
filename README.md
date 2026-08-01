@@ -239,7 +239,7 @@ If this skill has helped you, **give it a star ⭐** — it will really encourag
 
 ## 📞 Contact
 
-- **Maintainer**: [Your Name](https://github.com/carbonlife-yang)
+- **Maintainer**: [Yanyang](https://github.com/carbonlife-yang)
 
 ---
 
