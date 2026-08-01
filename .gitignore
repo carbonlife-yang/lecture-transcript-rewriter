@@ -1,0 +1,64 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# 测试时插入的真实数据(防止误提交)
+# 如果你跑过 generate_keys.py 真实测试,这些文件可能包含测试数据
+USAGE_LOG.md
+# 注:KEYS.md 也可能含测试数据,但因为需要保留邀请码状态,默认不忽略
+# 想要忽略的话,取消下一行注释
+# KEYS.md
+
+# 本地配置文件
+.env
+.env.local
+*.local
+
+# 临时文件
+*.log
+*.tmp
+.cache/
+.pytest_cache/
+
+# 备份文件
+*.backup
+*.bak
+*~
+*.orig
+
+# 文档构建产物
+docs/_build/
+site/
+
+# 打包发布
+build/
+dist/
+*.egg-info/
+*.egg
