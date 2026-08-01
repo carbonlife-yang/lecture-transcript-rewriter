@@ -223,7 +223,7 @@ PRs welcome! See [CONTRIBUTING.md](CONTRIBUTING.md).
 You can contribute:
 - New evaluation dimensions (e.g., "humor", "stage presence")
 - New missing-content checklists (e.g., "interactive games", "AI tool usage")
-- Translations (English/Japanese/Korean)
+- Translations 
 - Improved templates (easier docx generation)
 - Case studies (rewrites of other courses)
 
@@ -235,13 +235,11 @@ MIT — use freely, modify freely, commercial use OK.
 
 ## 🌟 Star History
 
-If this Skill helped you, **give it a star ⭐** — it helps others find it.
+If this skill has helped you, **give it a star ⭐** — it will really encourage me to build more.
 
 ## 📞 Contact
 
-- **Issues**: [GitHub Issues](https://github.com/your-org/lecture-transcript-rewriter/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-org/lecture-transcript-rewriter/discussions)
-- **Maintainer**: [Your Name](https://github.com/your-username)
+- **Maintainer**: [Your Name](https://github.com/carbonlife-yang)
 
 ---
 
